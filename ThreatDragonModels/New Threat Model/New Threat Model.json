@@ -1,0 +1,20 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "TEst",
+    "description": "TEst",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "test"
+      }
+    ],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "TEst",
+    "threatTop": 0
+  }
+}
